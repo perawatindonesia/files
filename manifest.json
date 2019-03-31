@@ -1,0 +1,38 @@
+{
+  "name": "Info Perawat Indonesia",
+  "short_name": "PerawatIndonesia",
+  "start_url": "https://www.infoperawatindonesia.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Info perawat Indonesia pelatihan, askep, PPNI, asuhan keperawatan, seminar perawat, pengajuan STR SIK SIPP, lowongan perawat, info rumah sakit, PPI",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s72/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s96/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s144/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s168/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Opk9obLiaN0/WAe3voBYqKI/AAAAAAAAAN8/XUyLpr-RqwI66IwKGA52YTpuoXPTj7V-gCLcB/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vlAthcTXvN8/WAe3zDW46II/AAAAAAAAAOo/0H3OEVUWIHkL1H21x5MQ9t53jJ4GtPYfwCLcB/s512/logo-ipi.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
